@@ -6,7 +6,7 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminsmsk&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminsmsk&langs_count=8&layout=compact&theme=algolia" />
 </a>
 
 <br>
