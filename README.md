@@ -3,8 +3,14 @@
 - 🌱 I'm currently a 3rd-grade computer engineering student.
 - 📫 How to reach me eminsimsek1911@hotmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eminsmsk&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eminsmsk&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eminsmsk&show_icons=true&theme=algolia" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminsmsk&langs_count=8&layout=compact" />
+</a>
 
