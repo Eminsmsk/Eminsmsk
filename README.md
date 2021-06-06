@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eminsmsk&show_icons=true&theme=nightowl" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eminsmsk&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eminsmsk&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eminsmsk)](https://github.com/anuraghazra/github-readme-stats)
 
