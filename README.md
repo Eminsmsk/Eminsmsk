@@ -15,8 +15,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eminsmsk&show_icons=true&theme=radical" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eminsmsk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
