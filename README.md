@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eminsmsk
-- 👀 I’m interested in WEB/Mobile Development technologies.
+- 👀 I’m interested in Web/Mobile Development technologies.
 - 🌱 I'm currently a new graduate software engineer.
 - 📫 How to reach me eminsimsek1911@hotmail.com
 
